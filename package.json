@@ -1,0 +1,23 @@
+{
+  "name": "undici-fetch-proxy-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennyEckstein/undici-fetch-proxy-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jennyEckstein/undici-fetch-proxy-example/issues"
+  },
+  "homepage": "https://github.com/jennyEckstein/undici-fetch-proxy-example#readme",
+  "dependencies": {
+    "proxy": "^1.0.2",
+    "undici": "^4.12.1"
+  }
+}
